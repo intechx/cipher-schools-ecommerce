@@ -23,6 +23,7 @@ const ShopSection = () => {
                       <Link to={`/products/${product._id}`}>
                         <div className="shopBack">
                           <img src={product.imageURL} alt={product.name} />
+                    
                         </div>
                       </Link>
 

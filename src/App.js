@@ -4,7 +4,7 @@ import "./responsive.css";
 import "react-toastify/dist/ReactToastify.css";import {
   BrowserRouter,
   Routes,
-  Route,
+  Route
 } from "react-router-dom";
 //
 import HomeScreen from "./screens/HomeScreen";
@@ -26,7 +26,7 @@ const App = () => {
     <Routes>
         <Route path="/" element={<HomeScreen/>} exact />
         <Route path="/products/:id" element={<SingleProduct/>} />
-       
+      
 
         <Route path="/login" element={<Login/>} />
         <Route path="/register" element={<Register/>} />

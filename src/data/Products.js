@@ -2,7 +2,7 @@ const Products=[
   {
     "name": "ATTITUDE IS EVERYTHING",
 
-    "productId": "BOOK201",
+    "_id": "1",
     "brandName": "Bookish",
     "category": "Motivational",
     "companyAssured": false,
@@ -11,11 +11,13 @@ const Products=[
     "discount": "40%",
     "imageURL": "https://m.media-amazon.com/images/I/710jnzKlDTL._AC_UL640_FMwebp_QL65_.jpg",
     "sellerName": "Adin",
-    "isNewProduct": true
+    "isNewProduct": true,
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
   },
   {
     "name": "NMD_R1 PRIMEBLUE SHOES",
-    "productId": "BOOK202",
+    "_id": "2",
     "brandName": "Bookish",
     "category": "Motivation",
     "companyAssured": true,
@@ -24,11 +26,13 @@ const Products=[
     "discount": "17%",
     "imageURL": "https://m.media-amazon.com/images/I/81gTwYAhU7L._AC_UL640_FMwebp_QL65_.jpg",
     "sellerName": "Adin stores",
-    "isNewProduct": false
+    "isNewProduct": false,
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
   },
   {
     "name": "ZX 5K BOOST SHOES",
-    "productId": "BOOK203",
+    "_id": "3",
     "brandName": "Bookish",
     "category": "Motivation",
     "companyAssured": false,
@@ -38,11 +42,13 @@ const Products=[
     "imageURL": "https://m.media-amazon.com/images/I/71g2ednj0JL._AC_UY436_FMwebp_QL65_.jpg",
     "sellerName": "Adin",
 
-    "isNewProduct": true
+    "isNewProduct": true,
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
   },
   {
     "name": "SUPERSTAR SHOES",
-    "productId": "BOOK204",
+    "_id": "4",
     "brandName": "Bookish",
     "category": "Golden Strips",
     "companyAssured": true,
@@ -51,10 +57,12 @@ const Products=[
     "discount": "67%",
     "imageURL": "https://m.media-amazon.com/images/I/41v-UFY84HL._AC_UY436_FMwebp_QL65_.jpg",
     "sellerName": "Adin stores",
-    "isNewProduct": false
+    "isNewProduct": false,
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
   },{
     "name": "X9000L2 HEAT.RDY SHOES",
-    "productId": "BOOK2054",
+    "_id": "5",
     "brandName": "Bookish",
     "category": "Motivation",
     "companyAssured": false,
@@ -63,11 +71,13 @@ const Products=[
     "discount": "30%",
     "imageURL": "https://m.media-amazon.com/images/I/71I0wCu256L._AC_UY436_FMwebp_QL65_.jpg",
     "sellerName": "Adin",
-    "isNewProduct": true
+    "isNewProduct": true,
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
   },
   {
     "name": "STAN SMITH SHOES",
-    "productId": "BOOK206",
+    "_id": "6",
     "brandName": "Bookish",
     "category": "Motivation",
     "companyAssured": true,
@@ -76,10 +86,12 @@ const Products=[
     "discount": "17%",
     "imageURL": "https://m.media-amazon.com/images/I/81jv44QdNwL._AC_UY436_FMwebp_QL65_.jpg",
     "sellerName": "Adin stores",
-    "isNewProduct": false
+    "isNewProduct": false,
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
   },{
     "name": "FORUM LOW SHOES",
-    "productId": "BOOK207",
+    "_id": "7",
     "brandName": "Bookish",
     "category": "Motivation",
     "companyAssured": false,
@@ -88,11 +100,13 @@ const Products=[
     "discount": "40%",
     "imageURL": "https://m.media-amazon.com/images/I/81bsw6fnUiL._AC_UY436_FMwebp_QL65_.jpg",
     "sellerName": "Adin",
-    "isNewProduct": true
+    "isNewProduct": true,
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
   },
   {
     "name": "RAYGUN M",
-    "productId": "BOOK208",
+    "_id": "8",
     "brandName": "Bookish",
     "category": "Motivation",
     "companyAssured": true,
@@ -101,10 +115,12 @@ const Products=[
     "discount": "17%",
     "imageURL": "https://m.media-amazon.com/images/I/81gMaFaAcKS._AC_UY436_FMwebp_QL65_.jpg",
     "sellerName": "Adin",
-    "isNewProduct": false
+    "isNewProduct": false,
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
   },{
     "name": "NMD_R1 TR SHOES",
-    "productId": "BOOK209",
+    "_id": "9",
     "brandName": "Bookish",
     "category": " Motivation ",
     "companyAssured": false,
@@ -113,11 +129,13 @@ const Products=[
     "discount": "40%",
     "imageURL": "https://m.media-amazon.com/images/I/71NFsfU0asL._AC_UY436_QL65_.jpg",
     "sellerName": "Adin",
-    "isNewProduct": true
+    "isNewProduct": true,
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
   },
   {
     "name": "SEIZE THE STREET M",
-    "productId": "BOOK000",
+    "_id": "10",
     "brandName": "Bookish",
     "category": "Motivation",
     "companyAssured": true,
@@ -126,7 +144,9 @@ const Products=[
     "discount": "57%",
     "imageURL": "https://m.media-amazon.com/images/I/61Ji3j44n9L._AC_UY436_QL65_.jpg",
     "sellerName": "Adin stores",
-    "isNewProduct": false
+    "isNewProduct": false,
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
   },
 ]
   export default Products;

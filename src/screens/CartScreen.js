@@ -23,7 +23,7 @@ const CartScreen = () => {
           </div>
           <div className="cart-text col-md-5 d-flex align-items-center">
             <Link to="#">
-              <h4>Nike Shoe</h4>
+              <h4>Attitude is everything</h4>
             </Link>
           </div>
           <div className="cart-qty col-md-2 col-sm-5 mt-md-5 mt-3 mt-md-0 d-flex flex-column justify-content-center">
